@@ -33,6 +33,6 @@
 # numers = [numer*3 for numer in range (1, 30)]
 # print(numers)
 
-# numers = [numer**3 for numer in range(1, 10)]
-# print(numers)
+numers = [numer**3 for numer in range(1, 10)]
+print(numers)
 
